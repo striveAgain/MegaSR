@@ -1,1 +1,3 @@
-# MegaSR
+# MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution
+
+under review, waiting...
