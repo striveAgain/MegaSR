@@ -4,5 +4,7 @@
 
 This is the official repository for "MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution."
 
+![MegaSR Framework](figs/framework.png)
+
 ## :bookmark: Updates
 - [x] 2025-03-12: **Arxiv version has been released.**
